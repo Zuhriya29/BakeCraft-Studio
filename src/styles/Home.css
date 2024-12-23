@@ -1,0 +1,168 @@
+
+
+.tengah {
+    text-align: center;
+    width: 100%;
+  }
+
+  .home{
+    width: 100%;
+    display: flex;
+  }
+  
+  .order {
+    z-index: 10; /* Nilai yang lebih tinggi akan membuatnya berada di depan */
+    position: fixed;
+    bottom:10%;
+    right: 5%;
+    display: flex;
+    align-items: center;
+    border: 2px solid #172114;
+    border-radius: 25px;
+    background-color: #ff777e;
+    padding: 0px 15px;
+    animation: blink 5s infinite;/* Animasi berkedip */
+  }
+
+  @keyframes blink {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.3;
+    }
+}
+
+  .order a {
+    text-decoration: none;
+    color: #172114;
+  }
+
+  .order:hover {
+    background-color: #689c87;
+    cursor: pointer;
+    animation: none;
+  }
+
+  .text{
+    font-weight: bold;
+    padding-left: 10px;
+    font-family: "Lexend Deca", serif;
+    margin: 0px;
+  }
+
+  a.tbl-pink {
+    background: #ff777e;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #172114;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  a.tbl-pink:hover {
+    background: #689c87;
+    text-decoration: none;
+  }
+
+  .aboutus{
+    width: 100%;
+    display: flex;
+    background-color: #D8CFBB;
+    margin:0;
+  }
+
+  .aboutus img{
+    width:600px;
+    padding:50px 50px;
+  }
+
+  .courses{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .link{
+    text-decoration:none;
+    color: #689c87;
+    font-weight: bold;
+  }
+  
+  .link:hover{
+    font-weight: bold;
+    text-decoration:none;
+    color:#FF777E;
+  }
+
+.fasilitas{
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #D8CFBB;
+}
+
+.fasilitas h2{
+  color:#172114;
+}
+
+  section {
+    margin-bottom: 50px;
+    color:#172114;
+  }
+  
+  p {
+    color:#172114;
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+  }
+  
+  .kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    font-family: "Lexend Deca", serif;
+  }
+  
+  .kolom .deskripsi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "comic sans ms";
+    color: #689c87;
+    font-family: "Lexend Deca", serif;
+  }
+  
+  h2 {
+    font-family: "Lexend Deca", serif;
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #689c87;
+    width: 100%;
+    line-height: 50px;
+  }
+  
+  .tengah {
+    text-align: center;
+    width: 100%;
+  }
+  
+  @media screen and (max-width: 991.98px) {
+    section {
+      display: block;
+    }
+  
+    section img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  }

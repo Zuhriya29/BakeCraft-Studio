@@ -1,0 +1,30 @@
+
+  nav {
+    width: 100%;
+    font-family: "Gabarito", serif;
+    color:#172114;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #D8CFBB;
+    z-index: 10; /* Nilai yang lebih tinggi akan membuatnya berada di depan */
+    border-bottom: 1px solid #172114;
+  }
+  
+  .nav-link {
+    color:#172114;
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+
+  .nav-link:hover {
+    text-decoration: underline 4px solid #ff777e;
+    border-radius: 5px; /* Opsional: Tambahkan efek melengkung */
+  }
+
+  .nav-link.active,
+  .nav-link:active {
+    background-color: #ff777e; /* Warna latar belakang saat hover/focus */
+    border-radius: 5px; /* Opsional: Tambahkan efek melengkung */
+  }
+  
+ 
