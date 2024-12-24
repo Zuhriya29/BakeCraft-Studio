@@ -21,17 +21,17 @@ function CupcakeDecorationMastery(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/hias-cupcake.jpg" className="col-12 m-0"/>
+                        <img src="/images/hias-cupcake.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Teknik buttercream swirls</b></p>
                         <p>Membuat hiasan swirl yang halus dan konsisten dengan berbagai bentuk nozzle.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/hias-fondant.jpg" className="col-12 m-0"/>
+                        <img src="/images/hias-fondant.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Penggunaan fondant</b></p>
                         <p>Membentuk figurine atau ornamen fondant untuk dekorasi yang kreatif.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/hias-lain.jpg" className="col-12 m-0"/>
+                        <img src="/images/hias-lain.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Desain kreatif lainnya</b></p>
                         <p> Memadukan elemen hiasan seperti sprinkle, edible glitter, dan teknik pewarnaan untuk menciptakan tampilan unik.</p>
                     </div>

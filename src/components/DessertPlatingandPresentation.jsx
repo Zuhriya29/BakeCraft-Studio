@@ -21,17 +21,17 @@ function DessertPlatingandPresentation(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/plating.jpg" className="col-12 m-0"/>
+                        <img src="/images/plating.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Teknik plating</b></p>
                         <p> Mengatur elemen dessert seperti mousse, cake, atau sorbet agar tampak estetis.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/plating2.jpg" className="col-12 m-0"/>
+                        <img src="/images/plating2.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Pewarnaan dan tekstur</b></p>
                         <p>Menciptakan kontras warna dan tekstur pada piring.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/plating3.jpg" className="col-12 m-0"/>
+                        <img src="/images/plating3.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Hiasan tambahan</b></p>
                         <p>Menggunakan saus, edible flowers, atau elemen dekorasi lainnya.</p>
                     </div>

@@ -21,17 +21,17 @@ function BasicBakingTechniques(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/bahan.jpg" className="col-12 m-0"/>
+                        <img src="/images/bahan.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Pengenalan bahan baking</b></p>
                         <p>Memahami peran bahan seperti tepung, gula, telur, mentega, dan ragi dalam adonan.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/alat.jpg" className="col-12 m-0"/>
+                        <img src="/images/alat.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Penggunaan alat-alat baking</b></p>
                         <p>Cara menggunakan mixer, oven, loyang, dan peralatan lainnya dengan benar.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/teknik.jpg" className="col-12 m-0"/>
+                        <img src="/images/teknik.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Teknik dasar membuat adonan</b></p>
                         <p>Belajar mencampur, menguleni, dan memanggang adonan sederhana untuk menghasilkan kue dasar seperti sponge cake, brownies, atau cookies.</p>
                     </div>

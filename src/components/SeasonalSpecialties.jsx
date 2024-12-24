@@ -21,17 +21,17 @@ function SeasonalSpecialties(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/cookies-natal.jpg" className="col-12 m-0"/>
+                        <img src="/images/cookies-natal.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Cookies Natal</b></p>
                         <p>Membuat kue berbentuk pohon Natal, bintang, atau gingerbread.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/kuelebaran.jpg" className="col-12 m-0"/>
+                        <img src="/images/kuelebaran.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Kue Lebaran</b></p>
                         <p>Kreasi seperti nastar, kastengel, atau kue lapis.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/dessert.jpg" className="col-12 m-0"/>
+                        <img src="/images/dessert.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Dessert tematik</b></p>
                         <p> Kue atau dessert untuk acara khusus seperti Halloween, ulang tahun, atau perayaan lainnya.</p>
                     </div>

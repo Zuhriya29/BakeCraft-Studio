@@ -21,17 +21,17 @@ function ArtisanBreadMaking(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/oven-kue.jpg" className="col-12 m-0"/>
+                        <img src="/images/oven-kue.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Fermentasi alami</b></p>
                         <p>Memahami proses pembuatan sourdough starter dan bagaimana ragi alami memengaruhi tekstur dan rasa roti.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/ukir-kue.jpg" className="col-12 m-0"/>
+                        <img src="/images/ukir-kue.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Shaping dan scoring</b></p>
                         <p>Teknik membentuk dan mengukir adonan agar hasilnya terlihat profesional.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/bahan.jpg" className="col-12 m-0"/>
+                        <img src="/images/bahan.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Penggunaan bahan premium</b></p>
                         <p>Menggunakan tepung khusus, biji-bijian, dan bahan lain untuk menghasilkan roti autentik.</p>
                     </div>

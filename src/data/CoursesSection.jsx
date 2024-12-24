@@ -6,7 +6,7 @@ export const aboutusSection = {
                 <p>Kami percaya bahwa setiap orang memiliki potensi untuk menciptakan karya istimewa di dapur. Melalui sesi hands-on, komunitas yang suportif, dan pelatihan yang dirancang secara profesional, kami berkomitmen untuk menjadikan perjalanan Anda di dunia baking sebagai pengalaman yang berharga dan tak terlupakan.</p>
                 <p>Mari bergabung bersama kami dan temukan kepuasan dalam menciptakan kelezatan dalam setiap kreasi.</p>
                 <p><b>BakeCraft Studio, Kelezatan dalam Setiap Kreasi<b/></p>`,
-    image : "../src/images/tempat.jpg"
+    image : "/images/tempat.jpg"
 }
 
 export const coursesSection = {
@@ -144,7 +144,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/mentor.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/mentor.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -159,7 +159,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/dapur.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/dapur.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -174,7 +174,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/bahan.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/bahan.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -189,7 +189,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/teknik.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/teknik.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -204,7 +204,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/resep.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/resep.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -219,7 +219,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/diskusi.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/diskusi.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -234,7 +234,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/certificate.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/certificate.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -249,7 +249,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/wifi.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/wifi.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">
@@ -264,7 +264,7 @@ export const fasilitasSection = {
                             <div className="card" style="max-width: 95%;">
                                 <div className="row g-0">
                                     <div className="col-md-6">
-                                        <img src="../src/images/produk.jpg" className="img-fluid rounded-start" alt="...">
+                                        <img src="/images/produk.jpg" className="img-fluid rounded-start" alt="...">
                                     </div>
                                     <div className="col-md-6">
                                         <div className="card-body">

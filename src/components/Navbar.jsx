@@ -26,7 +26,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-sm position-sticky">
       <div className="container-fluid d-flex justify-content-between align-items-center">
         <a className="navbar-brand d-flex align-items-center" href="#">
-          <img src="/src/images/logo.jpg" alt="Logo" width="auto" height="40" className="d-inline-block align-text-top me-2"/>
+          <img src="/images/logo.jpg" alt="Logo" width="auto" height="40" className="d-inline-block align-text-top me-2"/>
           <p>BakeCraft Studio</p>
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

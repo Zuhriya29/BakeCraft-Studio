@@ -21,17 +21,17 @@ function AdvancedCakeDecorating(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/sugar.jpg" className="col-12 m-0"/>
+                        <img src="/images/sugar.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Sugar art</b></p>
                         <p>Membuat ornamen dekorasi dari gula yang cantik dan rumit.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/hias-fondant.jpg" className="col-12 m-0"/>
+                        <img src="/images/hias-fondant.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Fondant modeling</b></p>
                         <p>Membentuk karakter atau elemen dekoratif yang realistis dengan fondant.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/color.jpg" className="col-12 m-0"/>
+                        <img src="/images/color.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Airbrush decoration</b></p>
                         <p> Teknik pewarnaan modern untuk menciptakan gradasi dan efek pada kue.</p>
                     </div>

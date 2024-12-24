@@ -21,17 +21,17 @@ function PastryPerfection(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/laminasi-adonan.jpg" className="col-12 m-0"/>
+                        <img src="/images/laminasi-adonan.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Teknik laminasi</b></p>
                         <p>Cara melapisi adonan dengan mentega untuk menghasilkan tekstur yang ringan dan berlapis.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/pastry.jpg" className="col-12 m-0"/>
+                        <img src="/images/pastry.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Pembuatan pastry klasik</b></p>
                         <p>Membuat croissant, puff pastry, dan Danish dari awal hingga akhir</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/trik.jpg" className="col-12 m-0"/>
+                        <img src="/images/trik.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Trik dan tips</b></p>
                         <p>Rahasia menghasilkan pastry dengan hasil sempurna setiap kali.</p>
                     </div>

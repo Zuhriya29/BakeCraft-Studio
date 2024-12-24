@@ -21,17 +21,17 @@ function HealthyBaking(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/bahan.jpg" className="col-12 m-0"/>
+                        <img src="/images/bahan.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Menggunakan bahan alternatif</b></p>
                         <p>Tepung almond, pemanis alami, susu nabati, dan bahan lain untuk diet khusus.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/teknik.jpg" className="col-12 m-0"/>
+                        <img src="/images/teknik.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Teknik membuat kue sehat</b></p>
                         <p>Gluten-free, rendah gula, atau vegan dengan hasil tetap lezat.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/resep.jpg" className="col-12 m-0"/>
+                        <img src="/images/resep.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Inovasi resep sehat</b></p>
                         <p>Menciptakan versi sehat dari kue klasik seperti brownies, muffins, dan cookies.</p>
                     </div>

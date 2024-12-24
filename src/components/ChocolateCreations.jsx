@@ -21,17 +21,17 @@ function ChocolateCreations(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/coklat-cair.jpg" className="col-12 m-0"/>
+                        <img src="/images/coklat-cair.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Teknik Tempering</b></p>
                         <p>Mencairkan dan mengkristalkan cokelat agar hasilnya mengilap dan mudah dicetak.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/isi-coklat.jpg" className="col-12 m-0"/>
+                        <img src="/images/isi-coklat.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Pembuatan Praline Dan Truffle</b></p>
                         <p>Membuat isian cokelat dengan berbagai rasa dan tekstur.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/bar-coklat.jpg" className="col-12 m-0"/>
+                        <img src="/images/bar-coklat.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Cokelat Bar</b></p>
                         <p>Menciptakan cokelat dalam berbagai bentuk dan desain.</p>
                     </div>

@@ -21,17 +21,17 @@ function BusinessBakingEssentials(){
                 </div>
                 <div className="row">
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/harga.jpg" className="col-12 m-0"/>
+                        <img src="/images/harga.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Penentuan harga (pricing)</b></p>
                         <p>Cara menghitung biaya bahan, tenaga, dan profit margin.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/branding.jpg" className="col-12 m-0"/>
+                        <img src="/images/branding.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Branding</b></p>
                         <p>Membangun identitas bisnis yang kuat melalui logo, kemasan, dan strategi branding lainnya.</p>
                     </div>
                     <div className="col-md-4 mt-5">
-                        <img src="../src/images/strategi.jpg" className="col-12 m-0"/>
+                        <img src="/images/strategi.jpg" className="col-12 m-0"/>
                         <p className="mt-2"><b>Strategi pemasaran</b></p>
                         <p>Teknik promosi offline dan online, termasuk media sosial dan marketplace.</p>
                     </div>
